@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PopOver</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="main">
+      <h1 class="title">This is a Simple PopOver</h1>
+
+      <!-- Button element that triggers the popover visibility. The custom attribute 'popovertarget' is intended to link the button with the popover's target by its ID -->
+      <button popovertarget="my-popover">Open Popover</button>
+
+      <!-- The popover element, which contains additional information. Initially hidden by CSS. It becomes visible based on user interaction (e.g., button click) -->
+      <div id="my-popover" popover>
+        <p>
+          Here is more info! To close this click away or press the “ESC” key.
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
