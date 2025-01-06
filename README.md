@@ -1,7 +1,12 @@
 # HTML & CSS Cheat Sheet 2025
 
-## This is a collection of useful HTML and CSS tips and tricks that I've found useful over the years. It's a work in progress and I'll be adding more features and sections as I go.
+<p style=" font-size: 1.2rem; font-weight: bold;"> This is a collection of useful HTML and CSS tips and tricks that I've found useful over the years. It's a work in progress and I'll be adding more features and sections as I go. </p>
 
 ## 1. [Popover Menu Code](PopOver-Menu)
 
-<img src="./PopOver-Menu/image.png" alt="Popover Menu" width="100%" height="500" />
+<img src="./PopOver-Menu/image.png" alt="Popover Menu" width="80%" height="400" style="display: block; margin: 0 auto;" />
+
+<p style='font-size: 1.2rem; font-weight: bold;'>
+💡 Key Takeaway
+Popovers enhance UI functionality while keeping the design clean and user-friendly. By strategically using them, you can provide more contextual interactivity and improve user engagement.
+</p>
