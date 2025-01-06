@@ -4,7 +4,7 @@
 
 ## 1. [Popover Menu Code](PopOver-Menu)
 
-<img src="./PopOver-Menu/image.png" alt="Popover Menu"  style="display: block; margin: 0 auto; max-width: 1000px;" />
+<img src="./PopOver-Menu/popover.gif" alt="Popover Menu"  style="display: block; margin: 0 auto; max-width: 1000px;" />
 
 <p style='font-size: 1.2rem; font-weight: bold;'>
 💡 Key Takeaway
